@@ -34,7 +34,7 @@ To get started with Dart and Flutter, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/GDGKitwe/Dart-and-Flutter-Basics.git
+   git clone https://github.com/GDG-Kitwe/Dart-and-Flutter-Basics.git
    ```
 
 2. Navigate to the project directory:
